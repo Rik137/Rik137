@@ -16,6 +16,6 @@
 - [Коллекции Queue](https://github.com/Rik137/HomeWork12/tree/master).
 - [Коллекции HashSet и HashMap](https://github.com/Rik137/HomeWork13/tree/master).
 - [Коллекции TreeMap и TreeSet](https://github.com/Rik137/HomeWork14/blob/main/README.md).
-# [Курсовой проект: Конвертер в текстовую графику]().
+# [Курсовой проект: Конвертер в текстовую графику](https://github.com/Rik137/MainHomeWorkJava/blob/main/README.md).
 
 
