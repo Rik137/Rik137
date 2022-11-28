@@ -14,7 +14,7 @@
 # 4. inMemory хранение данных - коллекции.
 - [Generics в коллекциях и методах, Коллекции List](https://github.com/Rik137/HomeWork11/tree/master).
 - [Коллекции Queue](https://github.com/Rik137/HomeWork12/tree/master).
-- [Коллекции HashSet и HashMap]().
+- [Коллекции HashSet и HashMap](https://github.com/Rik137/HomeWork13/tree/master).
 - [Коллекции TreeMap и TreeSet]().
 # [Курсовой проект: Конвертер в текстовую графику]().
 
