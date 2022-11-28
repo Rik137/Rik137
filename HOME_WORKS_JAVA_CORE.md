@@ -9,6 +9,6 @@
 - [Mockito. Мокирование вызовов, Mock, Stub](https://github.com/Rik137/HomeWorkJavaCore7/blob/main/README.md).
 # Блок 3. Работа с сетью
 - [Основы работы с сетью. Модель OSI](https://github.com/Rik137/HomeWorkJavaCore8/blob/main/README.md).
-- [Протокол HTTP. Вызов удаленных серверов]().
+- [Протокол HTTP. Вызов удаленных серверов](https://github.com/Rik137/HomeWorkJavaCore9/blob/main/README.md).
 # Блок 4. Структура JVM
 - [JVM. Организация памяти, сборщики мусора, VisualVM]().
