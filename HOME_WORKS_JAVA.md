@@ -2,7 +2,7 @@
 - [Структура программы](https://github.com/Rik137/HomeWork1/blob/main/README.md).
 - [Условные операторы и циклы](https://github.com/Rik137/HomeWork2).
 - [Типы данных в Java: примитивы задача №1](https://github.com/Rik137/HomeWork4), [задача №2](https://github.com/Rik137/HomeWork4a/tree/master).
-- [Типы данных в Java: объекты]().
+- [Типы данных в Java: объекты](https://github.com/Rik137/HomeWork3).
 - [Структура класса]().
 # 2. inMemory хранение данных - массивы.
 - [Массивы одномерные](https://github.com/Rik137/HomeWork6/tree/master).
