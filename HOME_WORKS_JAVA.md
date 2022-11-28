@@ -12,7 +12,7 @@
 - [Абстракции и интерфейсы]().
 - [Исключения, Stacktrace](https://github.com/Rik137/lesson12).
 # 4. inMemory хранение данных - коллекции.
-- [Generics в коллекциях и методах, Коллекции List]().
+- [Generics в коллекциях и методах, Коллекции List](https://github.com/Rik137/HomeWork11/tree/master).
 - [Коллекции Queue](https://github.com/Rik137/HomeWork12/tree/master).
 - [Коллекции HashSet и HashMap]().
 - [Коллекции TreeMap и TreeSet]().
