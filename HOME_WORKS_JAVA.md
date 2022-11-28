@@ -9,7 +9,7 @@
 - [Массивы многомерные](https://github.com/Rik137/lesson8).
 # 3. Основы ООП.
 - [Полиморфизм, Модификаторы доступа, наследование](https://github.com/Rik137/HomeWork8/tree/master).
-- [Абстракции и интерфейсы]().
+- [Абстракции и интерфейсы](https://github.com/Rik137/HomeWork9a/tree/master).
 - [Исключения, Stacktrace](https://github.com/Rik137/lesson12).
 # 4. inMemory хранение данных - коллекции.
 - [Generics в коллекциях и методах, Коллекции List](https://github.com/Rik137/HomeWork11/tree/master).
