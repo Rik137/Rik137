@@ -10,7 +10,7 @@
 # 3. Основы ООП.
 - [Полиморфизм, Модификаторы доступа, наследование](https://github.com/Rik137/HomeWork8/tree/master).
 - [Абстракции и интерфейсы](https://github.com/Rik137/HomeWork9a/tree/master).
-- [Исключения, Stacktrace](https://github.com/Rik137/lesson12).
+- [Исключения, Stacktrace задача №1](https://github.com/Rik137/lesson12), [задача №2](https://github.com/Rik137/HomeWork10a/tree/master).
 # 4. inMemory хранение данных - коллекции.
 - [Generics в коллекциях и методах, Коллекции List](https://github.com/Rik137/HomeWork11/tree/master).
 - [Коллекции Queue](https://github.com/Rik137/HomeWork12/tree/master).
