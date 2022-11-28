@@ -5,7 +5,7 @@
 - [Сборка проектов. Maven и Gradle](https://github.com/Rik137/HomeWorkJavaCore4/blob/main/README.md).
 - [Работа с файлами CSV, XML, JSON](https://github.com/Rik137/HomeWorkJavaCore5/blob/main/README.md).
 # Блок 2. Тестирование программы
-- [Тестирование кода и Unit-тесты]().
+- [Тестирование кода и Unit-тесты](https://github.com/Rik137/HomeWorkJavaCore6/blob/main/README.md).
 - [Mockito. Мокирование вызовов, Mock, Stub]().
 # Блок 3. Работа с сетью
 - [Основы работы с сетью. Модель OSI]().
