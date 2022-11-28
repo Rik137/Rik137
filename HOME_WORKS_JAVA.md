@@ -1,5 +1,5 @@
 # 1. Основы Java.
-- [Структура программы]().
+- [Структура программы](https://github.com/Rik137/HomeWork1/blob/main/README.md).
 - [Условные операторы и циклы]().
 - [Типы данных в Java: примитивы задача №1](https://github.com/Rik137/HomeWork4), [задача №2](https://github.com/Rik137/HomeWork4a/tree/master).
 - [Типы данных в Java: объекты]().
