@@ -13,7 +13,7 @@
 - [Исключения, Stacktrace](https://github.com/Rik137/lesson12).
 # 4. inMemory хранение данных - коллекции.
 - [Generics в коллекциях и методах, Коллекции List]().
-- [Коллекции Queue]().
+- [Коллекции Queue](https://github.com/Rik137/HomeWork12/tree/master).
 - [Коллекции HashSet и HashMap]().
 - [Коллекции TreeMap и TreeSet]().
 # [Курсовой проект: Конвертер в текстовую графику]().
