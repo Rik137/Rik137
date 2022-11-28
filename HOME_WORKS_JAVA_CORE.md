@@ -11,4 +11,4 @@
 - [Основы работы с сетью. Модель OSI](https://github.com/Rik137/HomeWorkJavaCore8/blob/main/README.md).
 - [Протокол HTTP. Вызов удаленных серверов](https://github.com/Rik137/HomeWorkJavaCore9/blob/main/README.md).
 # Блок 4. Структура JVM
-- [JVM. Организация памяти, сборщики мусора, VisualVM]().
+- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Rik137/HomeWorkJavaCore10/blob/main/README.md).
