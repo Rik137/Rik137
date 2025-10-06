@@ -24,7 +24,7 @@
 ---
 
 ### 📂 Portfolio
-Check out my repositories to see real projects and exercises demonstrating my skills in Java development. 🚀
+This my main project [search engine](https://github.com/Rik137/searchengine)
 
 ---
 
