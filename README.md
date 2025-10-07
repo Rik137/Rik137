@@ -29,5 +29,5 @@ This my main project [search engine](https://github.com/Rik137/searchengine)
 ---
 
 ### 📫 Contact
-- Email: Rick137c_1990@proton.me
+- Email: Rick_137c1990@proton.me
 
