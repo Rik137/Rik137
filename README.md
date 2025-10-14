@@ -18,7 +18,7 @@
 ---
 
 ### 📂 Portfolio
-This my main project [search engine](https://github.com/Rik137/searchengine)
+This my main project [Search Engine](https://github.com/Rik137/searchengine)
 
 ---
 
