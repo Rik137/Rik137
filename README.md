@@ -12,13 +12,7 @@
 
 ---
 
-### 🎓 Courses & Projects
-
-#### 1️⃣ Java Course – Netology
-- Java. [Homework assignments: Java basics](https://github.com/Rik137/Rik137/blob/main/HOME_WORKS_JAVA.md)  
-- **Course documents:** [Access here](https://drive.google.com/file/d/1yRL0kPC1RSE0u7WEQuZkq6HLo9iopgBa/view?usp=share_link)
-
-#### 2️⃣ Java Developer Course – Skillbox
+####  🎓 Projects Java Developer Course – Skillbox
 - Java. [Homework assignments: "Java Basics"](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
 
 ---
