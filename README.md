@@ -6,7 +6,7 @@
 ### 💻 Skills
 - **Languages:** Java, SQL  
 - **Frameworks:** Spring, Spring Boot  
-- **Tools & Technologies:** Git, Maven, Gradle, Docker, IntelliJ IDEA  
+- **Tools & Technologies:** Git, Maven, IntelliJ IDEA  
 - **Database:** MySQL, Oracle
 - **Other:** REST API, Multithreading, OOP, Clean Code Principles, Vim, Linux
 
