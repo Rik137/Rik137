@@ -2,7 +2,8 @@
 ## I'm Sergey Nazarov, Java Developer
 
 ---
-
+[My resume](@HelperResumeRobot)
+---
 ### 💻 Skills
 - **Languages:** Java, SQL  
 - **Frameworks:** Spring, Spring Boot  
