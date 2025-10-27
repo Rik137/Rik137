@@ -2,7 +2,7 @@
 ## I'm Sergey Nazarov, Java Developer
 
 ---
-[My resume](@HelperResumeRobot)
+[My resume](https://t.me/HelperResumeRobot)
 ---
 ### 💻 Skills
 - **Languages:** Java, SQL  
