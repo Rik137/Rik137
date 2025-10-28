@@ -20,7 +20,8 @@
 
 ### 📂 Portfolio
 This my main project [Search Engine](https://github.com/Rik137/searchengine)
-[Telegram bot](https://github.com/Rik137/Resume-Robot)
+
+My telegrambots: [Resumebot](https://github.com/Rik137/Resume-Robot), [Smartbot]()
 
 ---
 
