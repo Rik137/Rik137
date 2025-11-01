@@ -2,7 +2,7 @@
 ## I'm Sergey Nazarov, Java Developer
 
 ---
-[My resume](https://t.me/HelperResumeRobot)
+[My resume](https://t.me/HelperResumeRobot) it's a telegrambot
 ---
 ### 💻 Skills
 - **Languages:** Java, SQL  
