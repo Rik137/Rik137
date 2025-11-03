@@ -5,11 +5,11 @@
 [My resume](https://t.me/HelperResumeRobot) it's a telegrambot
 ---
 ### 💻 Skills
-- **Languages:** Java, SQL  
-- **Frameworks:** Spring, Spring Boot  
-- **Tools & Technologies:** Git, Maven, IntelliJ IDEA  
-- **Database:** MySQL, Oracle
-- **Other:** REST API, Multithreading, OOP, Clean Code Principles, Vim, Linux
+- **Languages:** Java, bash  
+- **Frameworks:** Spring (Boot, mvc, rest)
+- **Tools & Technologies:** Git, Maven, IntelliJ IDEA, VIM, Linux, Docker
+- **Database:** MySQL, Oracle, PostgreSQL
+- **Other:** REST API, Multithreading, OOP, Clean Code Principles
 
 ---
 
