@@ -1,9 +1,6 @@
 # Hello! 👋
 ## I'm Sergey Nazarov, Java Developer
 
----
-[My resume](https://t.me/HelperResumeRobot) it's a telegrambot
----
 ### 💻 Skills
 - **Languages:** Java, bash  
 - **Frameworks:** Spring (Boot, mvc, rest)
