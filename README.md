@@ -1,17 +1,19 @@
 # Hello! 👋
-## I'm Sergey Nazarov, Java Developer
+## Java Developer (Backend, Spring Boot)
 
 ### 💻 Skills
-- **Languages:** Java, bash  
-- **Frameworks:** Spring (Boot, mvc, rest)
-- **Tools & Technologies:** Git, Maven, IntelliJ IDEA, VIM, Linux, Docker
-- **Database:** MySQL, Oracle, PostgreSQL
-- **Other:** REST API, Multithreading, OOP, Clean Code Principles
+**Languages:** Java, Bash  
+**Core Java:** Collections, Stream API, Multithreading, OOP  
+**Frameworks:** Spring Boot, Spring MVC, Spring REST  
+**Databases:** MySQL, PostgreSQL, Oracle  
+**Tools:** Git, Maven, Docker, Linux, IntelliJ IDEA, Vim  
+**Approaches:** Clean Code, REST API design
 
 ---
 
-####  🎓 Projects Java Developer Course – Skillbox
-- Java. [Homework assignments: "Java Basics"](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
+### 🎓 Education
+Java Developer Program — Skillbox  
+[Projects and homework included in portfolio](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
 
 ---
 
@@ -22,6 +24,12 @@ My telegrambots: [Resumebot](https://github.com/Rik137/Resume-Robot), [Smartbot]
 
 ---
 
+**English:** B1 (working to B1)
+
+---
+
 ### 📫 Contact
 - Email: Rick_137c1990@proton.me
+
+  
 
