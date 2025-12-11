@@ -24,7 +24,7 @@ My telegrambots: [Resumebot](https://github.com/Rik137/Resume-Robot), [Smartbot]
 
 ---
 
-**English:** B1 (working to B1)
+**🇬🇧 English:** B1 (working to B1)
 
 ---
 
