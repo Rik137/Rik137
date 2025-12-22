@@ -4,9 +4,9 @@
 ### 💻 Skills
 **Languages:** Java, Bash  
 **Core Java:** Collections, Stream API, Multithreading, OOP  
-**Frameworks:** Spring Boot, Spring MVC, Spring REST  
+**Frameworks:** Spring  
 **Databases:** MySQL, PostgreSQL, Oracle  
-**Tools:** Git, Maven, Docker, Linux, IntelliJ IDEA, Vim  
+**Tools:** Git, Maven, Docker, Linux, Vim  
 **Approaches:** Clean Code, REST API design
 
 ---
