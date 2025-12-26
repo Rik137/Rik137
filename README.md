@@ -22,7 +22,7 @@ This my main project java[Search Engine](https://github.com/Rik137/searchengine)
 
 My telegrambots: [Resumebot](https://github.com/Rik137/Resume-Robot), [Smartbot](https://github.com/Rik137/smarbot)
 
-My sysadmin [project]https://github.com/Rik137/inux-devops-labs
+My sysadmin [project](https://github.com/Rik137/inux-devops-labs)
 
 ---
 
