@@ -1,6 +1,6 @@
 # Hello! 👋
 ## Java Developer (Backend, Spring Boot)
-## My resume [here]()
+## My resume [here](https://t.me/HelperResumeRobot)
 
 ### 💻 Skills
 **Languages:** Java, Bash  
