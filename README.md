@@ -30,7 +30,17 @@ My sysadmin [project](https://github.com/Rik137/inux-devops-labs)
 **🇬🇧 English:** A2-B1 (improving)
 
 ---
+
 ## Documents and Certificates [here](https://github.com/Rik137/Documents)
+
+---
+
+### About me
+
+Junior Java Developer with a strong focus on backend development.  
+I build small but complete services: REST APIs, database-backed applications, and automation tools.  
+Interested in clean code, system behavior, and practical engineering solutions.
+
 
 ### 📫 Contact
 - Email: Rick_137c1990@proton.me
