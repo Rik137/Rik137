@@ -1,5 +1,6 @@
 # Hello! 👋
 ## Java Developer (Backend, Spring Boot)
+## My resume [here]()
 
 ### 💻 Skills
 **Languages:** Java, Bash  
@@ -18,7 +19,7 @@ Java Developer Program — Skillbox
 ---
 
 ### 📂 Portfolio
-This my main project java[Search Engine](https://github.com/Rik137/searchengine)
+This my main project java [Search Engine](https://github.com/Rik137/searchengine)
 
 My telegrambots: [Resumebot](https://github.com/Rik137/Resume-Robot), [Smartbot](https://github.com/Rik137/smarbot)
 
@@ -29,7 +30,7 @@ My sysadmin [project](https://github.com/Rik137/inux-devops-labs)
 **🇬🇧 English:** B1 (working to B1)
 
 ---
-## [Documents](https://github.com/Rik137/Documents)
+## Documents and Certificates [here](https://github.com/Rik137/Documents)
 
 ### 📫 Contact
 - Email: Rick_137c1990@proton.me
