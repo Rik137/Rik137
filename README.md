@@ -27,14 +27,14 @@ My main Java project [Search Engine](https://github.com/Rik137/searchengine)
 My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
 My sysadmin [project](https://github.com/Rik137/inux-devops-labs)  
 ---  
-### 🇬🇧 English:** A2-B1 (improving)  
+### 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
 ---
 ### 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
 ---
 ### 👤 About me  
-Junior Java Developer with a strong focus on backend development.  
-I build small but complete services: REST APIs, database-backed applications, and automation tools.  
-Interested in clean code, system behavior, and practical engineering solutions.
+I focus on building small but complete backend services:
+from REST APIs to database-backed systems with attention to code quality,
+system behavior, and reliability.
 ---
 ### 📫 Contact  
 - Email: Rick_137c1990@proton.me  
