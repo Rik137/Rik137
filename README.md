@@ -37,9 +37,9 @@ from REST APIs to database-backed systems with attention to code quality,
 system behavior, and reliability.
 ---
 ### 📫 Contact  
-- Email: Rick_137c1990@proton.me  
+- Email: Rick_137c1990@proton.me   
 - Backup email: ric19902002@icloud.com  
-- Telegram: [@Rik137c](https://t.me/Rik137c)
+- Telegram: [@Rik137c](https://t.me/Rik137c)  
 
   
 
