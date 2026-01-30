@@ -1,11 +1,11 @@
 # Hello! 👋
 ## Backend Java Developer | Spring Boot | REST APIs | Multithreading  
 ---
-📌 What you'll find here?  
-Backend services written in Java (Spring Boot)
-Educational and independent projects
-Experiments with system design, multithreading and Linux
-Small automation tools and Telegram bots
+## 📌 What you'll find here?  
+Serverservices geschreven in Java (Spring Boot)
+Educatieve en onafhankelijke projecten
+Experimenten met systeemontwerp, multithreading en Linux
+Kleine automatiseringstools en Telegram-bots
 ---
 ## Resume (interactive Telegram bot) [Open resume in Telegram](https://t.me/HelperResumeRobot)
 💻 Skills  
@@ -18,25 +18,23 @@ Small automation tools and Telegram bots
 **Approaches:** Clean Code, REST API design  
 ---
 ## 🎓 Education
-Java Developer Program — Skillbox  
----
+## Java Developer Program — Skillbox  
 ## 🧩 Homework included in portfolio -> [here](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
----
-### 📂 Portfolio
+## 📂 Portfolio
 My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
 My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
 My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)  
 ---  
-### 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
+## 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
 ---
-### 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
+## 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
 ---
-### 👤 About me  
+## 👤 About me  
 I focus on building small but complete backend services:
 from REST APIs to database-backed systems with attention to code quality,
 system behavior, and reliability.
 ---
-### 📫 Contact  
+## 📫 Contact  
 - Email: Rick_137c1990@proton.me   
 - Backup email: ric19902002@icloud.com  
 - Telegram: [@Rik137c](https://t.me/Rik137c)  
