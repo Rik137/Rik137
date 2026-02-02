@@ -1,34 +1,27 @@
-# Hello! 👋
-## Backend Java Developer | Spring Boot | REST APIs | Multithreading  
----
-## 📌 What you'll find here?  
-Serverservices geschreven in Java (Spring Boot)
-Educatieve en onafhankelijke projecten
-Experimenten met systeemontwerp, multithreading en Linux
-Kleine automatiseringstools en Telegram-bots
----
+# Hello! 👋 Backend Java Developer | Spring Boot | REST APIs | Multithreading  
+### 📌What you'll find here?  
+- Serverservices geschreven in Java (Spring Boot)
+- Educatieve en onafhankelijke projecten
+- Experimenten met systeemontwerp, multithreading en Linux
+- Kleine automatiseringstools en Telegram-bots
 ## Resume (interactive Telegram bot) [Open resume in Telegram](https://t.me/HelperResumeRobot)
-💻 Skills  
-**Languages:** Java  
-**Scripting:** Bash (basic), Python (basic)  
-**Core Java:** Collections, Stream API, Multithreading, OOP  
-**Frameworks:** Spring Boot
-**Databases:** MySQL, Oracle  
-**Tools:** Git, Maven, Docker, Linux, Vim  
-**Approaches:** Clean Code, REST API design  
+### 💻 Skills  
+- Languages: Java
+- Scripting: Bash (basic), Python (basic)  
+- Core Java: Collections, Stream API, Multithreading, OOP  
+- Frameworks: Spring Boot
+- Databases: MySQL, Oracle  
+- Tools: Git, Maven, Docker, Linux, Vim  
+- Approaches: Clean Code, REST API design  
 ---
-## 🎓 Education
-## Java Developer Program — Skillbox  
+## 🎓 Education Java Developer Program — Skillbox  
 ## 🧩 Homework included in portfolio -> [here](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
-## 📂 Portfolio
-My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
-My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
-My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)  
----  
+## 📂 Portfolio  
+- My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
+- My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
+- My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)   
 ## 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
----
 ## 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
----
 ## 👤 About me  
 I focus on building small but complete backend services:
 from REST APIs to database-backed systems with attention to code quality,
