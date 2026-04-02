@@ -20,8 +20,8 @@
 - My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
 - My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
 - My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)
-- My Python library (here)[https://github.com/Rik137/python-toolkit]
-## 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
+- My Python library [here](https://github.com/Rik137/python-toolkit)
+## 🇬🇧 English: B1 (reading technical documentation, improving speaking)  
 ## 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
 ## 👤 About me  
 I focus on building small but complete backend services:
