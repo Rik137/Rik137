@@ -1,4 +1,4 @@
-# Hello! 👋 Backend Java Developer | Spring Boot | REST APIs | Multithreading  
+# Hello! 👋 Backend Java and Python Developer | Spring Boot | REST APIs | Multithreading  
 ### 📌What you'll find here?  
 - Serverservices geschreven in Java (Spring Boot)
 - Educatieve en onafhankelijke projecten
@@ -6,8 +6,8 @@
 - Kleine automatiseringstools en Telegram-bots
 ## Resume (interactive Telegram bot) [Open resume in Telegram](https://t.me/HelperResumeRobot)
 ### 💻 Skills  
-- Languages: Java
-- Scripting: Bash (basic), Python (basic)  
+- Languages: Java, Python(basic)
+- Scripting: Bash (basic)
 - Core Java: Collections, Stream API, Multithreading, OOP  
 - Frameworks: Spring Boot
 - Databases: MySQL, Oracle  
@@ -19,7 +19,8 @@
 ## 📂 Portfolio  
 - My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
 - My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
-- My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)   
+- My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)
+- My Python library (here)[]
 ## 🇬🇧 English: A2–B1 (reading technical documentation, improving speaking)  
 ## 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
 ## 👤 About me  
