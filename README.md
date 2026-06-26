@@ -4,7 +4,6 @@
 - Educatieve en onafhankelijke projecten
 - Experimenten met systeemontwerp, multithreading en Linux
 - Kleine automatiseringstools en Telegram-bots
-## Resume (interactive Telegram bot) [Open resume in Telegram](https://t.me/HelperResumeRobot)
 ### 💻 Skills  
 - Languages: Java, Python(basic)
 - Scripting: Bash (basic)
@@ -18,11 +17,8 @@
 ## 🧩 Homework included in portfolio -> [here](https://github.com/Rik137/HomeWorks-in-Skillbox/blob/main/README.md)
 ## 📂 Portfolio  
 - My main Java project [Search Engine](https://github.com/Rik137/searchengine)  
-- My telegrambot (pet project): [Resumebot](https://github.com/Rik137/Resume-Robot)  
-- My sysadmin [project](https://github.com/Rik137/inux-devops-labs/blob/main/README.md)
 - My Python library [here](https://github.com/Rik137/python-toolkit)
 ## 🇬🇧 English: B1 (reading technical documentation, improving speaking)  
-## 📄 Documents and Certificates [here](https://github.com/Rik137/Documents)  
 ## 👤 About me  
 I focus on building small but complete backend services:
 from REST APIs to database-backed systems with attention to code quality,
